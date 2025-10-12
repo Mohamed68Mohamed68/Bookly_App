@@ -20,4 +20,4 @@ class BooklyApp extends StatelessWidget {
       home: SplashView(),
     );
   }
-}
+} 
